@@ -1,0 +1,36 @@
+*{font-family:'Times New Roman', Times, sans-serif;
+
+
+
+}
+
+h1 {
+    color:red;
+    font-size:75px;
+    text-align:center;
+}
+
+h2 {
+    color:blue;
+}
+
+ul li{
+    color: green;
+
+}
+
+ol li{
+    color:rgb(0,140,200);
+}
+
+#attention{
+    color:rgb(200,85,120);
+}
+
+img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    height:auto;
+    width:600px;
+}

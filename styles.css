@@ -10,11 +10,16 @@ h1 {
 }
 
 #main_image{
+    margin-bottom:300px;
     height:auto;
     width:1000px;
 }
 
 .recipe_image{
+    display:block; 
+    margin-bottom: 50px;
+    margin-left:0px;
+    margin-right:auto;
     height:auto;
     width:400px;
 }
